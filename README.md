@@ -2,11 +2,11 @@
    De inicio é necessário selecionar uma imagem atraves do botao "selecionar imagem".
    Ao selecionar a imagem aparecerá as opções logo embaixo.
    
-   OS PRIMEIRO 2 BOTÕES SERIA 
-   -SUAVIZAÇÃO COM MEDIANA
-   -SUAVIZAÇÃO COM MEDIA
+   OS PRIMEIRO 2 BOTÕES SERIA.
+   -SUAVIZAÇÃO COM MEDIANA.
+   -SUAVIZAÇÃO COM MEDIA.
    
-   OS PRÓXIMOS 2 BOTÕES SERIA
+   OS PRÓXIMOS 2 BOTÕES SERIA.
    -CONVERSÃO EM TONS DE CINZA MÉDIA
    -CONVERSÃO EM TONS DE CINZA NTSC
    
