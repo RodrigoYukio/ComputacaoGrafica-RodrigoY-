@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalho de Computação Gráfica</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Trabalho de Computação Gráfica</h1>
+        <p>Implementação: Processamento Digital de Imagens</p>
+    </header>
+
+    <main>
+          <button id="select-image">
+                <input type="file" id="photo-file"> Selecionar Imagem
+            </button>
+            <img id="photo-preview" draggable="false">
+                <aside>
+                    <section class="container-medianSuavization">
+                        <div>
+                            <button id="medianSuavization"> Suavização com Mediana</button>
+                        </div>
+                    </section>
+
+                    <section class="container-meanSuavization">
+                        <div>
+                            <button id="meanSuavization"> Suavização com Media</button>
+                        </div>
+                    </section>
+
+                    <section class="container-grayScaleMean">
+                        <div>
+                            <button id="grayScaleMean"> Conversão em tons de cinza Média </button>
+                        </div>
+                    </section>
+
+                    <section class="container-grayScaleNTSC">
+                        <div>
+                            <button id="grayScaleNTSC"> Conversão em tons de cinza NTSC </button>
+                        </div>
+                    </section>
+
+                    <section class="container-limirizacao">
+                        <div>
+                            <button id="limirizacao"> Limiar (Binarização) manual </button>
+                        </div>
+                    </section>
+
+                    <section class="rotate-image90-container">
+                        <div>
+                            <button id="rotateImage90" >Girar a imagem 90° </button>
+                        </div>
+                    </section>
+                    <section class="rotate-image180-container">
+                        <div>
+                            <button id="rotateImage180" >Girar a imagem 180° </button>
+                        </div>
+                    </section>
+                    <section class="rotate-image270-container">
+                        <div>
+                            <button id="rotateImage270">Girar a imagem 270°</button>
+                        </div>
+                    </section>
+                    
+                    <section class="rotate-image0-container">
+                        <div>
+                            <button id="rotateImage0" > Retornar ao angulo padrão</button>
+                        </div>
+                    </section>
+                
+
+                    <section class="reload-image">
+                        <div>
+                            <button id="reload"> Restaurar foto </button>
+                        </div>
+                    </section>
+
+                </aside>
+    </main>
+
+    
+    <script src="scripts.js" type="module"></script>
+</body>
+</html>
