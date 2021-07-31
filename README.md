@@ -1,3 +1,3 @@
 # ComputacaoGrafica-RodrigoYukio
--As instruções estão presentes no arquivo js.
+- As instruções estão presentes no arquivo js.
 
