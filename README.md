@@ -34,4 +34,3 @@
     Os algoritmos do redimensionamento foi inserido, mas por algum motivo não está sendo possivel
     ser aplicado na imagem.
     
-
