@@ -2,7 +2,7 @@
    De inicio é necessário selecionar uma imagem atraves do botao "selecionar imagem".
    Ao selecionar a imagem aparecerá as opções logo embaixo.
    
-    OS PRIMEIRO 2 BOTÕES SERIA 
+   OS PRIMEIRO 2 BOTÕES SERIA 
    -SUAVIZAÇÃO COM MEDIANA
    -SUAVIZAÇÃO COM MEDIA
    
@@ -22,9 +22,9 @@
    -RETORNAR AO ANGULO ORIGINAL
    -RESTAURAR IMAGEM
    
-    Filtros e algoritmos 
-    CONCLUIDOS - (S) 
-    NÃO FINALIZADOS - (N)
+   Filtros e algoritmos 
+   CONCLUIDOS - (S) 
+   NÃO FINALIZADOS - (N)
     N -Desfoque gaussiano (Gaussian Blur)
     S- Suavização com Média e Mediana
     S - Conversão em tons de cinza (Média e NTSC)
