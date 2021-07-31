@@ -33,4 +33,5 @@
     N -Redimensionar a imagem (4X, 2X, 1/2 e 1/4)
     Os algoritmos do redimensionamento foi inserido, mas por algum motivo não está sendo possivel
     ser aplicado na imagem.
+    
 
